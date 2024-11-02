@@ -1,5 +1,5 @@
 # Bike-Sharing-Dataset
-##### MUHAMAD ALIF RAMADHAN | MALIFRAM | IDCamp 2024
+##### MUHAMAD ALIF RAMADHAN | @malifram | Dicoding Indonesia - IDCamp 2024 
 
 ## Features
 
