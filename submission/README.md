@@ -20,7 +20,7 @@
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/viragohuegah/E-Commerce-Public-Dataset-Analysis.git
+    git clone https://github.com/malifram/Analisa-Data-dengan-Python/blob/main/submission/.git
     ```
 
 2. Navigate to the project directory:
